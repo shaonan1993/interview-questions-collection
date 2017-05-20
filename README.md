@@ -1,4 +1,4 @@
-# 面试问题整理
+﻿# 面试问题整理
 <br>
 
 这个项目是什么？
@@ -26,3 +26,5 @@
 [Java常考面试题_牛客网](https://www.nowcoder.com/ta/review-java)
 
 [C/C++面试常考题_牛客网](https://www.nowcoder.com/ta/review-c)
+
+[很全的Python面试题_伯乐在线](http://python.jobbole.com/85231/)
